@@ -6,7 +6,7 @@
   padding: 2vw;;
 }
 
-.row {
+.row, form {
   margin-bottom: 2vh;
 }
 
@@ -22,4 +22,25 @@
 
 body {
   background-color: rgb(188, 229, 240);
+}
+
+.whale, .octopus, .parrot {
+  display: none;
+}
+
+h1 {
+  color: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font: bold;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+  font: bold;
+}
+
+.btn btn-outline-dark {
+  padding-top: 8px;
+  border-color: indigo;
 }
