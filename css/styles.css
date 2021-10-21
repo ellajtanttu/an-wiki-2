@@ -1,0 +1,25 @@
+.container {
+  padding: 30px;
+}
+
+.card {
+  padding: 2vw;;
+}
+
+.row {
+  margin-bottom: 2vh;
+}
+
+.col-md-4 {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.col-md-4:hover {
+  color:blueviolet;
+}
+
+body {
+  background-color: rgb(188, 229, 240);
+}
